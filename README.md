@@ -12,11 +12,11 @@ Steps to create a website using the CRUD method and connecting a MySQL database.
 8. Create an edit.php file.
 
 Database configuration:
-Host: Localhost:3306
-Username: Root
-Password: 
-Database name: db_student
-Tabel name: tb_student
+- Host: Localhost:3306
+- Username: Root
+- Password:
+- Database name: db_student
+- Tabel name: tb_student
 
 ![image](https://github.com/user-attachments/assets/e5ee7ad9-8df3-4233-9073-e9d09eab3da9)
 
